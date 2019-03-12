@@ -1,0 +1,38 @@
+body{
+	background-color: indianred;
+	color: white;
+}
+
+
+*{
+	box-sizing: border-box;
+}
+
+#box1{
+width: 300px;
+height: 150px;
+padding-top: 15px;
+padding-left: 10px;
+background-color: green;
+border: white solid 2.5px;
+}
+
+#box2{
+width: 300px;
+height: 150px;
+padding-top: 15px;
+padding-left: 10px;
+background-color: red;
+border: white solid 2.5px;
+}
+
+#box3{
+	border: white solid 2.5px;
+    width: 305px
+}
+
+#box4{
+	border: black solid 2px;
+	width: 309px;
+	
+}
